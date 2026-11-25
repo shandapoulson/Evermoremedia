@@ -62,7 +62,7 @@
     '<p class="emp-err" hidden>Please add a valid email.</p>' +
     '<button class="emp-btn" type="submit">Sign me up</button>' +
     '</form>' +
-    '<p class="emp-fine">A friendly email now and then. No spam, unsubscribe anytime.</p>';
+    '<p class="emp-fine">A friendly email now and then. No spam, unsubscribe anytime. <a href="privacy.html">Privacy Policy</a></p>';
 
   var doneHTML =
     '<h2 class="emp-title" id="emp-title">You’re on <em>the list!</em></h2>' +
